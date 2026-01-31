@@ -1,0 +1,23 @@
+main repo: https://github.com/NousResearch/atropos
+
+https://github.com/your-username/atropos
+
+pip install -e ".[dev]"
+
+pre-commit install
+
+pytest
+
+git checkout main
+
+git pull origin main
+
+git checkout -b docs/your-contribution-name
+
+open code editor
+
+git add .
+
+git commit -m "docs: name here"
+
+git push origin docs/your-contribution-name
